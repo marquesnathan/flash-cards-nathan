@@ -1,21 +1,17 @@
-criaCartao(
-    'categora',
-    'pergunta',
-    'resposta'
+criCartao(
+    'Linguagem',
+    'Qual idioma tem mais falantes nativos: Inglês ou espanhol?',
+    'Espanhol'
 )
 
 criaCartao(
-    'categora',
-    'pergunta',
-    'resposta'
+    'Filosofia',
+'Quem era o antigo Deus Grego do Sol? ',
+'Apolo'
 )
+
 criaCartao(
-    'categora',
-    'pergunta',
-    'resposta'
-)
-criaCartao(
-    'categora',
-    'pergunta',
-    'resposta'
+'Filme',
+'Qual era o nome do chefe do crime que liderava a Chicago Outfit (Máfia de Chicago)? ',
+'Al Capone'
 )
