@@ -6,12 +6,12 @@ criCartao(
 
 criaCartao(
     'Filosofia',
-'Quem era o antigo Deus Grego do Sol? ',
-'Apolo'
+    'Quem era o antigo Deus Grego do Sol? ',
+    'Apolo'
 )
 
 criaCartao(
-'Filme',
-'Qual era o nome do chefe do crime que liderava a Chicago Outfit (Máfia de Chicago)? ',
-'Al Capone'
+    'Filme',
+    'Qual era o nome do chefe do crime que liderava a Chicago Outfit (Máfia de Chicago)? ',
+    'Al Capone'
 )
